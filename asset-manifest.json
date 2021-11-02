@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/financials-tracker/static/css/main.665aa431.chunk.css",
+    "main.js": "/financials-tracker/static/js/main.910f953f.chunk.js",
+    "main.js.map": "/financials-tracker/static/js/main.910f953f.chunk.js.map",
+    "runtime-main.js": "/financials-tracker/static/js/runtime-main.a72f560f.js",
+    "runtime-main.js.map": "/financials-tracker/static/js/runtime-main.a72f560f.js.map",
+    "static/js/2.a2fffe7b.chunk.js": "/financials-tracker/static/js/2.a2fffe7b.chunk.js",
+    "static/js/2.a2fffe7b.chunk.js.map": "/financials-tracker/static/js/2.a2fffe7b.chunk.js.map",
+    "static/js/3.c5fe3d22.chunk.js": "/financials-tracker/static/js/3.c5fe3d22.chunk.js",
+    "static/js/3.c5fe3d22.chunk.js.map": "/financials-tracker/static/js/3.c5fe3d22.chunk.js.map",
+    "index.html": "/financials-tracker/index.html",
+    "static/css/main.665aa431.chunk.css.map": "/financials-tracker/static/css/main.665aa431.chunk.css.map",
+    "static/js/2.a2fffe7b.chunk.js.LICENSE.txt": "/financials-tracker/static/js/2.a2fffe7b.chunk.js.LICENSE.txt",
+    "static/media/clothing.ede57058.png": "/financials-tracker/static/media/clothing.ede57058.png",
+    "static/media/entertainment.3decf40f.png": "/financials-tracker/static/media/entertainment.3decf40f.png",
+    "static/media/food.64e675a3.png": "/financials-tracker/static/media/food.64e675a3.png",
+    "static/media/freelancing-income.3da10b88.png": "/financials-tracker/static/media/freelancing-income.3da10b88.png",
+    "static/media/health.501f26f5.png": "/financials-tracker/static/media/health.501f26f5.png",
+    "static/media/interest-income.a159b04b.png": "/financials-tracker/static/media/interest-income.a159b04b.png",
+    "static/media/monthly-salary.e8468209.png": "/financials-tracker/static/media/monthly-salary.e8468209.png",
+    "static/media/plus.04b527f2.png": "/financials-tracker/static/media/plus.04b527f2.png",
+    "static/media/remove.f2ffd9d2.png": "/financials-tracker/static/media/remove.f2ffd9d2.png",
+    "static/media/rent.52e080b5.png": "/financials-tracker/static/media/rent.52e080b5.png",
+    "static/media/utilities.1ad8cb02.png": "/financials-tracker/static/media/utilities.1ad8cb02.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a72f560f.js",
+    "static/js/2.a2fffe7b.chunk.js",
+    "static/css/main.665aa431.chunk.css",
+    "static/js/main.910f953f.chunk.js"
+  ]
+}
